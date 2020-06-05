@@ -1,0 +1,14 @@
+.btn-danger:hover{
+	background-color: black;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ01psVYOz21cXj8AYNSRTok32RzFVEHHHxUwBrMLcG7Abt30zD&usqp=CAU");
+  background-color: #cccccc;
+
+}
+.jumbotron{
+	background-image: url("https://c.wallhere.com/photos/55/16/thread_ussr_buttons_sewing_wood_background-1032277.jpg!d");
+	background-size: auto;
+	background-repeat: no-repeat;
+	height: 60%;
+}
